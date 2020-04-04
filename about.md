@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+First year BEng Engineering student studying at the University of Warwick (2019-2022).  
+Interested primarily in social engineering and its uses in business management.  
+I have experience in mentoring young people, mostly in mathematics.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently consulting for a team of 2 others developing an app, which received £500 in funding from the Warwick Enterprise Fund during March 2020. Also Project Lead of an upcoming society at Warwick focused on reforming the education system.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Connect here](https://linkedin.com/in/anzdrew/)
