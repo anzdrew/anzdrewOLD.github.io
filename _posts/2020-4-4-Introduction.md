@@ -1,11 +1,20 @@
 ---
 layout: post
-title: You had me at "Hello, World"
+title: Welcome
 ---
 
-Welcome to my new and improved website, made using Github Pages and Jekyll.  
+First year BEng Engineering student studying at the University of Warwick (2019-2022).  
+Interested primarily in social engineering and its uses in business consulting.  
+I have extensive experience in mentoring young people, mostly in mathematics.  
+
+### Current Projects
+
+Consulting for a team of 2 others developing an app, which received £500 in funding from the Warwick Enterprise Fund during March 2020.  
+Project Lead of an upcoming society at Warwick focused on improving upon the education system.
+
+<!--- Welcome to my new and improved website, made using Github Pages and Jekyll.  
 My webdev experience has basically consisted of one Udemy course so far, so expect this site to break sometimes.  
-I'll be posting interesting things I find and learn about information security, social engineering and business.  
+I'll be posting interesting things I find and learn about information security, social engineering and business.  -->
 
 
 <!--- ![_config.yml]({{ site.baseurl }}/images/vwSun.png) -->
