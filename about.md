@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /Contact/
+title: Want to chat?
+permalink: /contact/
 ---
 
 ### Connect on LinkedIn
