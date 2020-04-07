@@ -4,13 +4,15 @@ title: Welcome
 ---
 
 First year BEng Engineering student studying at the University of Warwick (2019-2022).  
-Interested primarily in social engineering and its uses in business consulting.  
-I have extensive experience in mentoring young people, mostly in mathematics.  
+Interested in social engineering and its potential applications in consulting.  
+I have extensive experience in mentoring young people, namely mathematics.  
 
 ### Current Projects
 
-Consulting for a team of 2 others developing an app, which received £500 in funding from the Warwick Enterprise Fund during March 2020.  
-Project Lead of an upcoming society at Warwick focused on improving upon the education system.
+Consulting within a team of 2 others developing an app to improve sustainability on campus. Received £500 funding from the Warwick Enterprise Fund during March 2020.  
+
+Project Lead of an upcoming society at Warwick focused on improving upon education system.
+The society is expected to be formally introduced during October 2020, pending COVID-19.
 
 <!--- Welcome to my new and improved website, made using Github Pages and Jekyll.  
 My webdev experience has basically consisted of one Udemy course so far, so expect this site to break sometimes.  
