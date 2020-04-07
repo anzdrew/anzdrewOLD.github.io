@@ -3,8 +3,8 @@ layout: post
 title: Welcome
 ---
 
-First year BEng Engineering student studying at the University of Warwick (2019-2022).  
-Interested in social engineering and its potential applications in consulting.  
+First year BEng Engineering student studying at the University of Warwick (2019 - 2022).  
+My main interests liw in social engineering and its potential use to aid consulting.  
 I have extensive experience in mentoring young people, namely mathematics.  
 
 ### Current Projects
